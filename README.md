@@ -17,5 +17,4 @@ The database for this project is relational consists of five tables including so
 ETL Process (pipeline)
 
 
-How To Run the Project
 Running the ".py" files has to be done through the terminal by typing the “filesName.py” followed by [Enter], making sure that all related files are stored in the same destination. In our case, we run create_tables.py which will first drop existing tables then launch the new tables. The same steps should be done for running etl.py which will execute the pipeline and transfer the data from the data file into our created tables.
