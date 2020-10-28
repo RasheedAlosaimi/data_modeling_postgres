@@ -12,7 +12,7 @@ The project is provided with two datasets of song dataset that contains details 
 Database Design
 The database for this project is relational consists of five tables including songplays surrounded by the dimension tables of users, songs, artists, and time of which each is related to the fact table by a single join in order to perform analysis. 
 
-
+![alt text](https://github.com/RasheedAlosaimi/data_modeling_postgres/issues/1/image.jpg?raw=true)
 
 ETL Process (pipeline)
 
