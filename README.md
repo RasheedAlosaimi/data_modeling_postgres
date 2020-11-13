@@ -16,5 +16,8 @@ The database for this project is relational consists of five tables including so
 
 ETL Process (pipeline)
 
-
 Running the ".py" files has to be done through the terminal and all related files have to be stored in the same destination. In our case, we run create_tables.py which will first drop existing tables then launch the new tables. The same steps should be done for running etl.py which will execute the pipeline and transfer the data from the data file into our created tables.
+
+
+- for readme.md with the snapshot showing the relationships between tables please visit:
+https://github.com/RasheedAlosaimi/data_modeling_postgres
